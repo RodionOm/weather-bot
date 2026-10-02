@@ -9,7 +9,7 @@ A simple Telegram bot that shows the **current weather** and a **compact 3‑day
 * Weather emojis and neat Markdown formatting.
 * Expects city names **in English**.
 
-## Requirements
+## Requirements 
 
 * Python **3.10+**.
 * Accounts/keys:
